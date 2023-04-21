@@ -1,5 +1,6 @@
 ---
 title: Coherent Probabilistic Forecasting of Temporal Hierarchies
+software: https://github.com/awslabs/gluonts/tree/dev/src/gluonts/nursery/temporal_hierarchical_forecasting
 abstract: Forecasts at different time granularities are required in practice for addressing
   various business problems starting from short-term operational to medium-term tactical
   and to long-term strategic planning. These forecasting problems are usually treated
