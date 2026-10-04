@@ -1,7 +1,7 @@
 ---
 title: 'Two-Sample Tests for Inhomogeneous Random Graphs in $L_r$ Norm: Optimality
   and Asymptotics'
-software: 'https://github.com/sdan2/Lp-graph-testing '
+software: 'https://github.com/sdan2/Lp-graph-testing'
 abstract: 'In this paper we study the two-sample problem for inhomogeneous Erdős-Rényi
   (IER), random graph models, in the $L_r$ norm, in the high-dimensional regime where
   the number of samples is smaller or comparable to the size of the graphs. Given

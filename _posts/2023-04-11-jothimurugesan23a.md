@@ -1,6 +1,6 @@
 ---
 title: Federated Learning under Distributed Concept Drift
-software: 'URL: https://github.com/microsoft/FedDrift'
+software: 'https://github.com/microsoft/FedDrift'
 abstract: Federated Learning (FL) under distributed concept drift is a largely unexplored
   area. Although concept drift is itself a well-studied phenomenon, it poses particular
   challenges for FL, because drifts arise staggered in time and space (across clients).
