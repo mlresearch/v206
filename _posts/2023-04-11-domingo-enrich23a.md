@@ -1,6 +1,6 @@
 ---
 title: 'Compress Then Test: Powerful Kernel Testing in Near-linear Time'
-software: github.com/microsoft/goodpoints
+software: https://github.com/microsoft/goodpoints
 abstract: Kernel two-sample testing provides a powerful framework for distinguishing
   any pair of distributions based on n sample points. However, existing kernel tests
   either run in $n^2$ time or sacrifice undue power to improve runtime. To address
